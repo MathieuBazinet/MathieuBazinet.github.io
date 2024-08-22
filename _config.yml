@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 lang                     : eng
-languages                : ["en", "fr"]
+languages                : ["eng", "fr"]
 
 title                    : "Mathieu Bazinet"
 title_separator          : "-"
@@ -27,18 +27,18 @@ author:
   avatar           : "profile.png"
   name             : "Mathieu Bazinet"
   pronouns         :
-    - lang: "en"
+    - lang: "eng"
       text: "he/him" 
     - lang: "fr"
       text: "il/lui"
   bio              :
-    - lang: "en"
+    - lang: "eng"
       text: "Ph.D. Student in machine learning"
     - lang: "fr"
       text: "Étudiant au doctorat en apprentissage automatique"
   location         : "Québec, Canada"
   employer         :
-    - lang: "en"
+    - lang: "eng"
       text: "Laval University"
     - lang: "fr"
       text: "Universit&eacute; Laval"

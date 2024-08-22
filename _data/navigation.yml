@@ -5,7 +5,7 @@
 # prevent it from being included in the site.
 
 main:
-  - language: 'en'
+  - language: 'eng'
     links:
       - title: 'Publications' 
         url: /eng/publications/

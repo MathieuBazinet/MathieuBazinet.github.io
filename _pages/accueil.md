@@ -10,4 +10,4 @@ lang: fr
 ref : about
 ---
 
-C'est mon site Web!
+C'est mon site Web! Je viens de le créer, je vais ajouter mes informations dans les prochains temps.
