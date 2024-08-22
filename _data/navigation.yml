@@ -5,23 +5,27 @@
 # prevent it from being included in the site.
 
 main:
-  - title: "Publications"
-    url: /publications/
-
-  - title: "Talks"
-    url: /talks/    
-
-  - title: "Teaching"
-    url: /teaching/    
-    
-  - title: "Portfolio"
-    url: /portfolio/
-        
-  - title: "Blog Posts"
-    url: /year-archive/
-    
-  - title: "CV"
-    url: /cv/
-    
-  - title: "Guide"
-    url: /markdown/
+  - language: 'en'
+    links:
+      - title: 'Publications' 
+        url: /eng/publications/
+      - title: 'Talks'
+        url: /eng/talks/
+      - title: 'Teaching' 
+        url: /eng/teaching/
+      - title: 'CV' 
+        url: /eng/cv/
+      - title: 'Fran&ccedil;ais' 
+        url: /fr/
+  - language: 'fr'
+    links:
+      - title: 'Publications' 
+        url: /fr/publications/
+      - title: 'Pr&eacute;sentations' 
+        url: /fr/talks/
+      - title: 'Enseignement' 
+        url: /fr/teaching/
+      - title: 'CV' 
+        url: /fr/cv/
+      - title: 'English' 
+        url: /eng/

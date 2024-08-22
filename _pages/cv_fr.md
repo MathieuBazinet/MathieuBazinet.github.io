@@ -1,12 +1,15 @@
 ---
 layout: archive
-title: "Teaching"
-lang: en
-permalink: /eng/teaching/
+title: "CV"
+lang: fr
+permalink: /fr/cv/
 author_profile: true
-ref: teaching
+redirect_from:
+  - /resume
+ref: cv
 ---
 
 {% include base_path %}
+
 
 Work in progress

@@ -12,6 +12,8 @@ layout: default
   {% endunless %}
 {% endif %}
 
+{% assign posts=site.posts | where: "lang", page.lang %} {% for post in posts %} ... {% endfor %}
+
 <div id="main" role="main">
   {% include sidebar.html %}
 
@@ -19,6 +21,7 @@ layout: default
     {% unless page.header.overlay_color or page.header.overlay_image %}
       <h1 class="page__title">{{ page.title }}</h1>
     {% endunless %}
+    {% include masthead.html %}
     {{ content }}
   </div>
 </div>

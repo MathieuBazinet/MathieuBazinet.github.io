@@ -16,8 +16,20 @@
 
   <div class="author__content">
     <h3 class="author__name">{{ author.name }}</h3>
-    {% if author.pronouns %}<p class="author__pronouns">{{ author.pronouns }}</p>{% endif %}
-    {% if author.bio %}<p class="author__bio">{{ author.bio }}</p>{% endif %}
+    {% if author.pronouns %}
+    {% for item in author.pronouns %}
+    {% if item.lang == page.lang %}
+    <p class="author__pronouns">{{ item.text }}</p>
+    {% endif %}
+    {% endfor %}
+    {% endif %}
+    {% if author.bio %}
+    {% for item in author.bio %}
+    {% if item.lang == page.lang %}
+    <p class="author__bio">{{ item.text }}</p>
+    {% endif %}
+    {% endfor %}
+    {% endif %}
   </div>
 
   <div class="author__urls-wrapper">
@@ -28,7 +40,11 @@
         <li class="author__desktop"><i class="fa-solid fa-location-dot icon-pad-right" aria-hidden="true"></i>{{ author.location }}</li>
       {% endif %}
       {% if author.employer %}
-        <li class="author__desktop"><i class="fa fa-solid fa-building-columns icon-pad-right" aria-hidden="true"></i>{{ author.employer }}</li>
+      {% for item in author.employer %}
+      {% if item.lang == page.lang %}
+      <li class="author__desktop"><i class="fa fa-solid fa-building-columns icon-pad-right" aria-hidden="true"></i>{{ item.text }}</li>
+      {% endif %}
+      {% endfor %}
       {% endif %}
       {% if author.uri %}
         <li><a href="{{ author.uri }}"><i class="fas fa-fw fa-link icon-pad-right" aria-hidden="true"></i>{{ site.data.ui-text[site.locale].website_label | default: "Website" }}</a></li>
