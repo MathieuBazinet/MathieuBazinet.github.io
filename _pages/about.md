@@ -9,4 +9,6 @@ lang: eng
 ref : about
 ---
 
-This is my website! I am currently working on it, I will add more details soon.
+Hi, my name is Mathieu Bazinet.
+
+I am a computer science Ph.D. student under the supervision of [Pascal Germain, Ph.D.](https://www.pascalgermain.info/) et [Valentina Zantedeschi, Ph.D.](https://vzantedeschi.com/) I am mainly interested in statistical learning theory.

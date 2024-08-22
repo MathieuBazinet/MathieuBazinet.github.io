@@ -1,10 +1,10 @@
 ---
 layout: archive
-title: "Teaching"
+title: "Experience"
 lang: eng
-permalink: /eng/teaching/
+permalink: /eng/experience/
 author_profile: true
-ref: teaching
+ref: experience
 ---
 
 {% include base_path %}
