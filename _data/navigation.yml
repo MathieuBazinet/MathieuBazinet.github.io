@@ -11,7 +11,7 @@ main:
         url: /eng/publications/
       - title: 'Contributions'
         url: /eng/contributions/
-      - title: 'Experience' 
+      - title: 'Experiences' 
         url: /eng/experience/
       - title: 'CV' 
         url: /eng/cv/
@@ -23,7 +23,7 @@ main:
         url: /fr/publications/
       - title: 'Contributions' 
         url: /fr/contributions/
-      - title: 'Exp&eacute;rience' 
+      - title: 'Exp&eacute;riences' 
         url: /fr/experience/
       - title: 'CV' 
         url: /fr/cv/

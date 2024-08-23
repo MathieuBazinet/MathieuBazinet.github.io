@@ -11,7 +11,7 @@ ref: cv
 
 {% include base_path %}
 
-<a href="/files/CV_Mathieu_Bazinet.pdf">Télécharger le CV en format PDF.</a>
+<a href="/files/CV_Mathieu_Bazinet_fr.pdf">Télécharger le CV en format PDF.</a>
 
 Éducation
 ======
@@ -45,3 +45,25 @@ Distinctions académiques
   * Université Laval, Québec
 * Distinction spéciale – Excellence de la note obtenue dans le cadre du stage
   * Université Laval, Québec
+
+Formations
+======
+* Webinaire « Éthique et recherche en IA et en science des données » 
+  * Institut intelligence et données, Université Laval
+* Webinaire « L’intelligence artificielle en santé : de la définition aux enjeux éthiques et juridiques »
+  * Observatoire international sur les impacts sociétaux de l’IA et du numérique, Université Laval
+* Formation en réanimation cardio-respiratoire 
+  * Ambulance St-Jean, 2018
+
+Compétences particulières
+======
+
+* Langues parlées et écrites
+  * Français (expert)
+  * Anglais (avancé)
+  * Allemand (débutant)
+* Language de programmation
+  * Python (avancé)
+  * C++ (avancé)
+  * R (avancé)
+  * et autres!

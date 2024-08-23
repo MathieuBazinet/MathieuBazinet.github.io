@@ -10,7 +10,7 @@ ref: experience
 {% include base_path %}
 
 ## Reviewer
-* Reviewer pour le workshop de XAI-SA.
+* Reviewer pour le workshop de XAI-SA 2024.
 * Reviewer pour le workshop d'ANNPR 2024.
 
 
@@ -29,7 +29,7 @@ ref: experience
     * Automne 2023 à Hiver 2023
     * Tutorat privé pour les étudiants
     * Support de plus de 15 cours en mathématiques
-* Tuteur privé pour le cours Arithmétique pour l’enseignement préscolaire/primaire
+* Tuteur privé pour le cours Arithmétique pour l’enseignement préscolaire/primaire (MAT-1905)
     * Automne 2021 et Automne 2023
     * Tutorat privé pour les étudiants
 
