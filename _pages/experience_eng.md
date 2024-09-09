@@ -16,8 +16,11 @@ ref: experience
 
 ## Teaching assistant in computer science
 
+* Algorithmique et programmation (IFT-1004)
+    * Fall 20224 (under the supervision of Honoré Hounwanou)
+    * Teach the lab. Answer the student's questions.
 * Introduction to programmation  (IFT-1004)
-    * Winter 2023 (under the supervision of Pascal Germain)
+    * Winter 2024 (under the supervision of Honoré Hounwanou)
     * Teach the lab. Answer the student's questions.
 * Apprentissage automatique pour le traitement de signal (IFT-4030 / IFT-7030)
     * Fall 2023 (under the supervision of Cem Subakan)
