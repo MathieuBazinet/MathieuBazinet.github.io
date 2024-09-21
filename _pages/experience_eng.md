@@ -10,6 +10,7 @@ ref: experience
 {% include base_path %}
 
 ## Reviewer
+* Reviewer for the Montreal AI symposium 2024 (MAIS 2024)
 * Reviewer for the XAI-SA 2024 workshop.
 * Reviewer for the ANNPR 2024 workshop.
 

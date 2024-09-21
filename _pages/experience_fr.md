@@ -10,6 +10,7 @@ ref: experience
 {% include base_path %}
 
 ## Reviewer
+* Reviewer pour le symposium d'intelligence artificielle de Montréal 2024 (MAIS 2024)
 * Reviewer pour le workshop de XAI-SA 2024.
 * Reviewer pour le workshop d'ANNPR 2024.
 
