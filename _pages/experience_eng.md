@@ -10,6 +10,7 @@ ref: experience
 {% include base_path %}
 
 ## Reviewer
+* Reviewer for the M3L workshop at NeurIPS 2024
 * Reviewer for the Montreal AI symposium 2024 (MAIS 2024)
 * Reviewer for the XAI-SA 2024 workshop.
 * Reviewer for the ANNPR 2024 workshop.
@@ -18,7 +19,7 @@ ref: experience
 ## Teaching assistant in computer science
 
 * Algorithmique et programmation (IFT-1004)
-    * Fall 20224 (under the supervision of Honoré Hounwanou)
+    * Fall 2024 (under the supervision of Honoré Hounwanou)
     * Teach the lab. Answer the student's questions.
 * Introduction to programmation  (IFT-1004)
     * Winter 2024 (under the supervision of Honoré Hounwanou)

@@ -10,6 +10,7 @@ ref: experience
 {% include base_path %}
 
 ## Reviewer
+* Reviewer pour le workshop de M3L à NeurIPS 2024
 * Reviewer pour le symposium d'intelligence artificielle de Montréal 2024 (MAIS 2024)
 * Reviewer pour le workshop de XAI-SA 2024.
 * Reviewer pour le workshop d'ANNPR 2024.
@@ -18,7 +19,7 @@ ref: experience
 ## Auxiliaire d'enseignement en informatique
 
 * Algorithmique et programmation (IFT-1004)
-    * Automne 20224 (sous la supervision d'Honoré Hounwanou)
+    * Automne 2024 (sous la supervision d'Honoré Hounwanou)
     * Animer les laboratoires du cours.  Répondre aux questions des étudiants.
 * Introduction à la programmation (IFT-1004)
     * Hiver 2024 (sous la supervision d'Honoré Hounwanou)

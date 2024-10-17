@@ -19,7 +19,17 @@
               {% else %}
               {% assign domain = base_path %}
             {% endif %}
-            <li class="masthead__menu-item"><a href="{{ domain }}{{ link.url }}">{{ link.title }}</a></li>
+          {% if link.url.size < 6 %}
+            {% assign purl = page.url | split: "/" | last %}
+            {% if purl == item.language %}
+              {% assign url = link.url %}
+            {% else %}
+              {% assign url = link.url | append: purl | append: "/" %}
+            {% endif %}
+          {% else %}
+            {% assign url = link.url %}
+          {% endif %}
+            <li class="masthead__menu-item"><a href="{{ domain }}{{ url }}">{{ link.title }}</a></li>
           {% endfor %} 
           {% endif %}
           {% endfor %}
