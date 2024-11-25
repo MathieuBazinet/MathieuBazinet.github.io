@@ -50,9 +50,9 @@ author:
   googlescholar    : https://scholar.google.ca/citations?user=26mmxRkAAAAJ&hl=en&oi=ao
   impactstory      : # URL
   orcid            : "https://orcid.org/0009-0008-4105-5733"
-  semantic         : # URL
+  semantic         : https://www.semanticscholar.org/author/Mathieu-Bazinet/2322971972
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
+  researchgate     : https://www.researchgate.net/profile/Mathieu-Bazinet
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
