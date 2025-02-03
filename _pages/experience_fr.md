@@ -19,6 +19,7 @@ ref: experience
 ## Auxiliaire d'enseignement en informatique
 
 * Algorithmique et programmation (IFT-1004)
+    * Hiver 2025 (sous la supervision de Pascal Germain)
     * Automne 2024 (sous la supervision d'Honoré Hounwanou)
     * Animer les laboratoires du cours.  Répondre aux questions des étudiants.
 * Introduction à la programmation (IFT-1004)

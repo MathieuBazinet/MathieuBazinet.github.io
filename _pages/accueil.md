@@ -16,7 +16,7 @@ Je suis un étudiant au doctorat en informatique, qui s'intéresse à la théori
 
 Je m'intéresse particulièrement à la théorie PAC-Bayésienne et la théorie de la compression d'échantillon, appliquées aux méthodes à noyaux et aux réseaux de neurones. J'ai de plus travaillé sur l'utilisation d'arbres de régressions pour l'explication des processus physico-chimiques liés à la migration de peptides à travers des membranes d'ultra-filtration.
 
-Finalement, je suis responsable des communications pour le Club d'Intelligence Artificielle de l'Université Laval ([CIAUL](https://cia.ift.ulaval.ca/)). Je suis le responsable de la page [Facebook](https://www.facebook.com/people/Club-dintelligence-artificielle-de-lUniversit%C3%A9-Laval/100089798911416/), la page [LinkedIn](https://www.linkedin.com/company/cia-ulaval/) et la page [Instagram](https://www.instagram.com/ciaulaval/).
+Finalement, je suis responsable des tutoriels pour le Club d'Intelligence Artificielle de l'Université Laval ([CIAUL](https://cia.ift.ulaval.ca/)). Précédemment, j'étais le responsable des communications. J'ai créé puis animé les pages suivantes pendant 2 ans : [Facebook](https://www.facebook.com/people/Club-dintelligence-artificielle-de-lUniversit%C3%A9-Laval/100089798911416/), [LinkedIn](https://www.linkedin.com/company/cia-ulaval/) et [Instagram](https://www.instagram.com/ciaulaval/).
 
 
 Faits intéressants à propos de moi : 
