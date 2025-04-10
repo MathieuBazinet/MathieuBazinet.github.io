@@ -29,8 +29,11 @@ Distinctions académiques
 ======
 * Bourse de doctorat en recherche 2025-2028 (100 000$)
   * Fonds de recherche du Québec - Nature et Technologie
+  * <a href="https://doi.org/10.69777/343192">Référence de la bourse</a>
 * Bourse de maîtrise en recherche 2024 (20 000$)
   * Fonds de recherche du Québec - Nature et Technologie
+  * <a href="https://doi.org/10.69777/326466">Référence de la bourse</a>
+
 * 2ème prix du concours de la relève de la Semaine NumériQc (1000 $)
   * Présentation de mon projet de maîtrise
 * Prix de la meilleure solution à la problématique Actulab (1000$)

@@ -29,8 +29,10 @@ Academic Distinctions
 ======
 * Doctoral research scholarship 2025-2028 (100 000$)
   * Fonds de recherche du Québec - Nature et Technologie
+  * <a href="https://doi.org/10.69777/343192">Scholarship reference</a>
 * Masters research scholarship 2024 (20 000$)
   * Fonds de recherche du Québec - Nature et Technologie
+  * <a href="https://doi.org/10.69777/326466">Scholarship reference</a>
 * 2nd prize for the competition for young talent hosted by Semaine NumériQc (1000 $)
   * Presentation of my master's project
 * Prize for best solution to the problematic Actulab (1000$)
