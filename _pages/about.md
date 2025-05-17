@@ -9,6 +9,18 @@ lang: eng
 ref : about
 ---
 
+{% assign today = 'now' | date: '%s' %}
+{% assign start_date = '2025-05-16' | date: '%s' %}
+{% assign end_date = '2025-05-31' | date: '%s' %}
+
+{% if today >= start_date and today <= end_date %}
+  <div class="news" style="border: none;">
+    <h3>📢 New paper alert!</h3>
+    <p> The paper <a href="https://arxiv.org/abs/2410.13577"><strong><font size="3"><i>Generalization Bounds via Meta-Learned Model Representations: PAC-Bayes and Sample Compression Hypernetworks</i></font></strong></a> was just accepted at ICML 2025!</p>
+    <hr style="border: none; border-top: 1px solid black;">
+  </div>
+{% endif %}
+
 Hi, my name is Mathieu Bazinet.
 
 I am a computer science Ph.D. student under the supervision of [Pascal Germain, Ph.D.](https://www.pascalgermain.info/) et [Valentina Zantedeschi, Ph.D.](https://vzantedeschi.com/) in the [GRAIL lab](https://grail.ift.ulaval.ca/). 
