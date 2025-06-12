@@ -10,17 +10,11 @@ lang: fr
 ref : about
 ---
 
-{% assign today = 'now' | date: '%s' %}
-{% assign start_date = '2025-05-16' | date: '%s' %}
-{% assign end_date = '2025-05-31' | date: '%s' %}
-
-{% if today >= start_date and today <= end_date %}
-  <div class="news" style="border: none;">
+  <!-- <div class="news" style="border: none;">
     <h3>📢 Alerte : Nouveau papier publié !</h3>
     <p> Le papier <a href="https://arxiv.org/abs/2410.13577"><strong><font size="3"><i>Generalization Bounds via Meta-Learned Model Representations: PAC-Bayes and Sample Compression Hypernetworks</i></font></strong></a> vient d'être accepté à ICML 2025!</p>
     <hr style="border: none; border-top: 1px solid black;">
-  </div>
-{% endif %}
+  </div> -->
 
 Bonjour, je m'appelle Mathieu Bazinet.
 

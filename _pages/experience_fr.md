@@ -10,6 +10,9 @@ ref: experience
 {% include base_path %}
 
 ## Reviewer
+* Reviewer pour la conférence NeurIPS 2025
+* Reviewer pour le workshop des méthodes et opportunités à petite échelle (MOSS) à ICML 2025
+* Reviewer pour la 35ème édition du workshop IEEE MLSP
 * Reviewer pour le workshop de M3L à NeurIPS 2024
 * Reviewer pour le symposium d'intelligence artificielle de Montréal 2024 (MAIS 2024)
 * Reviewer pour le workshop de XAI-SA 2024.
@@ -18,6 +21,9 @@ ref: experience
 
 ## Auxiliaire d'enseignement en informatique
 
+* Programmation et mathématiques pour la science des données (IFT-4021/IFT-7021)
+    * Été 2025 (sous la supervision de Pascal Germain)
+    * Corriger les travaux pratiques.
 * Algorithmique et programmation (IFT-1004)
     * Hiver 2025 (sous la supervision de Pascal Germain)
     * Automne 2024 (sous la supervision d'Honoré Hounwanou)
