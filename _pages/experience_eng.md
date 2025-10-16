@@ -10,6 +10,8 @@ ref: experience
 {% include base_path %}
 
 ## Reviewer
+* Reviewer for the AISTATS 2026 conference
+* Reviewer for the Food Research International journal
 * Reviewer for the NeurIPS 2025 conference
 * Reviewer for the Methods and Opportunities at Small Scale (MOSS) workshop at ICML 2025
 * Reviewer for the 35th version of IEEE MLSP workshop
@@ -20,19 +22,21 @@ ref: experience
 
 
 ## Teaching assistant in computer science
-* Programmation et mathématiques pour la science des données (IFT-4021/IFT-7021)
-    * Summer 2025 (under the supervision of Pascal Germain)
-    * Correction of the practical assignments.
-* Algorithmique et programmation (IFT-1004)
-    * Hiver 2025 (under the supervision of Pascal Germain)
-    * Fall 2024 (under the supervision of Honoré Hounwanou)
-    * Teach the lab. Answer the student's questions.
-* Introduction to programmation  (IFT-1004)
-    * Winter 2024 (under the supervision of Honoré Hounwanou)
-    * Teach the lab. Answer the student's questions.
-* Apprentissage automatique pour le traitement de signal (IFT-4030 / IFT-7030)
+* Machine Learning for signal processing (IFT-4030 / IFT-7030)
+    * Fall 2025 (under the supervision of Cem Subakan)
     * Fall 2023 (under the supervision of Cem Subakan)
     * Teach the lab. Answer the student's questions. Correction of exams.
+* Algorithms and programming (IFT-1004)
+    * Fall 2025 (under the supervision of Pascal Germain)
+    * Winter 2025 (under the supervision of Pascal Germain)
+    * Fall 2024 (under the supervision of Honoré Hounwanou)
+    * Teach the lab. Answer the student's questions.
+* Programming and mathematics for data science (IFT-4021/IFT-7021)
+    * Summer 2025 (under the supervision of Pascal Germain)
+    * Correction of the practical assignments.
+* Introduction to programming  (IFT-1004)
+    * Winter 2024 (under the supervision of Honoré Hounwanou)
+    * Teach the lab. Answer the student's questions.
 
 ## Teaching assistant in mathematics - Tutor
 * Tutor for the Help center in mathematics and statistics (CDA)

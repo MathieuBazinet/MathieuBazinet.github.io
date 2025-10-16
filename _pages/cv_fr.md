@@ -21,6 +21,7 @@ ref: cv
 * Maîtrise en informatique - avec mémoire, Université Laval, 2022-2023
   * Supervisé par Pascal Germain
   * Projet de recherche : Méthodes de représentation parcimonieuse en apprentissage automatique grâce aux ondelettes
+  * Gradué avec un score Laval de 4.06/4.33 
 * Baccalauréat intégré en mathématiques et informatique, Université Laval, 2019-2022
   * Gradué avec un score Laval de 4.0/4.33
   * Participation au programme de passage intégré à la maîtrise
@@ -69,4 +70,4 @@ Compétences particulières
   * Python (avancé)
   * C++ (avancé)
   * R (avancé)
-  * et autres!
+  * et autres (tel que Matlab, C#, MiniZinc, Prolog)!

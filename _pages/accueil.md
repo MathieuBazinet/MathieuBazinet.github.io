@@ -20,9 +20,9 @@ Bonjour, je m'appelle Mathieu Bazinet.
 
 Je suis un étudiant au doctorat en informatique, qui s'intéresse à la théorie de l'apprentissage automatique. Je travaille sous la supervision de [Pascal Germain, Ph.D.](https://www.pascalgermain.info/) and [Valentina Zantedeschi, Ph.D.](https://vzantedeschi.com/) dans le laboratoire du [GRAAL](https://graal.ift.ulaval.ca/). 
 
-Je m'intéresse particulièrement à la théorie PAC-Bayésienne et la théorie de la compression d'échantillon, appliquées aux méthodes à noyaux et aux réseaux de neurones. J'ai de plus travaillé sur l'utilisation d'arbres de régressions pour l'explication des processus physico-chimiques liés à la migration de peptides à travers des membranes d'ultra-filtration.
+Je m'intéresse particulièrement à la théorie PAC-Bayésienne et la théorie de la compression d'échantillon aux réseaux de neurones. Durant ma maîtrise, je me suis intéressé aux méthodes à noyaux et à la transformée d'ondelettes. Finalement, j'ai travaillé sur l'utilisation d'arbres de régressions pour l'explication des processus physico-chimiques liés à la migration de peptides à travers des membranes d'ultra-filtration.
 
-Finalement, je suis responsable des tutoriels pour le Club d'Intelligence Artificielle de l'Université Laval ([CIAUL](https://cia.ift.ulaval.ca/)). Précédemment, j'étais le responsable des communications. J'ai créé puis animé les pages suivantes pendant 2 ans : [Facebook](https://www.facebook.com/people/Club-dintelligence-artificielle-de-lUniversit%C3%A9-Laval/100089798911416/), [LinkedIn](https://www.linkedin.com/company/cia-ulaval/) et [Instagram](https://www.instagram.com/ciaulaval/).
+Je suis présentement responsable des tutoriels pour le Club d'Intelligence Artificielle de l'Université Laval ([CIAUL](https://cia.ift.ulaval.ca/)). Vous pouvez trouver mes formations [ici](https://github.com/cia-ulaval/tutoriels-cia). Précédemment, j'étais le responsable des communications. J'ai créé puis animé les pages suivantes pendant 2 ans : [Facebook](https://www.facebook.com/people/Club-dintelligence-artificielle-de-lUniversit%C3%A9-Laval/100089798911416/), [LinkedIn](https://www.linkedin.com/company/cia-ulaval/) et [Instagram](https://www.instagram.com/ciaulaval/).
 
 
 Faits intéressants à propos de moi : 

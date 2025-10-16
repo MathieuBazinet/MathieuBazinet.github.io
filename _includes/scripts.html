@@ -2,3 +2,16 @@
 
 {% include analytics.html %}
 {% include /comments-providers/scripts.html %}
+
+<script>
+document.addEventListener("DOMContentLoaded", function() {
+  document.querySelectorAll(".pub-card").forEach(function(card) {
+    card.addEventListener("click", function(e) {
+      // Don’t override clicks on inner links
+      if (!e.target.closest("a") && typeof(card.dataset.url) !== "undefined") {
+        window.open(card.dataset.url, "_blank");
+      }
+    });
+  });
+});
+</script>

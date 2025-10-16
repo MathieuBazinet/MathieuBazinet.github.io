@@ -10,6 +10,8 @@ ref: experience
 {% include base_path %}
 
 ## Reviewer
+* Reviewer pour la conférence AISTATS 2026
+* Reviewer pour le journal Food Research International
 * Reviewer pour la conférence NeurIPS 2025
 * Reviewer pour le workshop des méthodes et opportunités à petite échelle (MOSS) à ICML 2025
 * Reviewer pour la 35ème édition du workshop IEEE MLSP
@@ -21,20 +23,22 @@ ref: experience
 
 ## Auxiliaire d'enseignement en informatique
 
-* Programmation et mathématiques pour la science des données (IFT-4021/IFT-7021)
-    * Été 2025 (sous la supervision de Pascal Germain)
-    * Corriger les travaux pratiques.
-* Algorithmique et programmation (IFT-1004)
-    * Hiver 2025 (sous la supervision de Pascal Germain)
-    * Automne 2024 (sous la supervision d'Honoré Hounwanou)
-    * Animer les laboratoires du cours.  Répondre aux questions des étudiants.
-* Introduction à la programmation (IFT-1004)
-    * Hiver 2024 (sous la supervision d'Honoré Hounwanou)
-    * Animer les laboratoires du cours.  Répondre aux questions des étudiants.
 * Apprentissage automatique pour le traitement de signal (IFT-4030 / IFT-7030)
+    * Automne 2025 (sous la supervision de Cem Subakan)
     * Automne 2023 (sous la supervision de Cem Subakan)
     * Animer les laboratoires du cours. Répondre aux questions des étudiants.
     * Corriger les examens. Définir une grille de critères de réussite.
+* Algorithmique et programmation (IFT-1004)
+    * Automne 2025 (sous la supervision de Pascal Germain)
+    * Hiver 2025 (sous la supervision de Pascal Germain)
+    * Automne 2024 (sous la supervision d'Honoré Hounwanou)
+    * Animer les laboratoires du cours.  Répondre aux questions des étudiants.
+* Programmation et mathématiques pour la science des données (IFT-4021/IFT-7021)
+    * Été 2025 (sous la supervision de Pascal Germain)
+    * Corriger les travaux pratiques.
+* Introduction à la programmation (IFT-1004)
+    * Hiver 2024 (sous la supervision d'Honoré Hounwanou)
+    * Animer les laboratoires du cours.  Répondre aux questions des étudiants.
 
 ## Auxiliaire d'enseignement en mathématiques - tutorat
 * Tuteur au Centre d'aide en mathématiques et statistique (CDA)
