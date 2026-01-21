@@ -18,6 +18,7 @@ Education
 * Ph.D. in machine learning, Laval University, 2023 - 
   * Supervised by Pascal Germain and Valentina Zantedeschi
   * Research project : A study of new representation learning algorithm through the lense of generalization bounds
+  * Finished my courses with a Laval score of 4.33/4.33
 * Master in computer science, Laval University, 2022-2023
   * Supervised by Pascal Germain
   * Research project : Sparse wavelet-based representation learning techniques for machine learning 

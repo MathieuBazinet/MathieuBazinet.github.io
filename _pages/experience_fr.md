@@ -23,6 +23,9 @@ ref: experience
 
 ## Auxiliaire d'enseignement en informatique
 
+* Initiation à l'apprentissage automatique (IFT-2009)
+    * Hiver 2026 (sous la supervision de Anthony Deschênes)
+    * Concevoir les laboratoires du cours. Animer les laboratoires.
 * Apprentissage automatique pour le traitement de signal (IFT-4030 / IFT-7030)
     * Automne 2025 (sous la supervision de Cem Subakan)
     * Automne 2023 (sous la supervision de Cem Subakan)

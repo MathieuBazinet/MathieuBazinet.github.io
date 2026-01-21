@@ -22,6 +22,9 @@ ref: experience
 
 
 ## Teaching assistant in computer science
+* Initiation to Machine Learning (IFT-2009)
+    * Winter 2026 (under the supervision of Anthony Deschênes)
+    * Create the exercices for the lab. Teach the lab.
 * Machine Learning for signal processing (IFT-4030 / IFT-7030)
     * Fall 2025 (under the supervision of Cem Subakan)
     * Fall 2023 (under the supervision of Cem Subakan)

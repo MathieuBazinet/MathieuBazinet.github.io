@@ -18,6 +18,7 @@ ref: cv
 * Doctorat en intelligence artificielle, Université Laval, 2023 - 
   * Supervisé par Pascal Germain et Valentina Zantedeschi
   * Projet de recherche : Étude de nouveaux algorithmes d’apprentissage de représentation grâce aux bornes de généralisations
+  * Cours fini avec un score Laval de 4.33/4.33
 * Maîtrise en informatique - avec mémoire, Université Laval, 2022-2023
   * Supervisé par Pascal Germain
   * Projet de recherche : Méthodes de représentation parcimonieuse en apprentissage automatique grâce aux ondelettes
