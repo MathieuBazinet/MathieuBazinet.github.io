@@ -9,70 +9,137 @@ ref: experience
 
 {% include base_path %}
 
-## Reviewer
-* Reviewer for the AISTATS 2026 conference
-* Reviewer for the Food Research International journal
-* Reviewer for the NeurIPS 2025 conference
-* Reviewer for the Methods and Opportunities at Small Scale (MOSS) workshop at ICML 2025
-* Reviewer for the 35th version of IEEE MLSP workshop
-* Reviewer for the M3L workshop at NeurIPS 2024
-* Reviewer for the Montreal AI symposium 2024 (MAIS 2024)
-* Reviewer for the XAI-SA 2024 workshop.
-* Reviewer for the ANNPR 2024 workshop.
+<section>
+  <h2>Reviewer</h2>
+  <ul>
+    <li>Reviewer for the AISTATS 2026 conference</li>
+    <li>Reviewer for the Food Research International journal</li>
+    <li>Reviewer for the NeurIPS 2025 conference</li>
+    <li>Reviewer for the Methods and Opportunities at Small Scale (MOSS) workshop at ICML 2025</li>
+    <li>Reviewer for the 35th edition of the IEEE MLSP workshop</li>
+    <li>Reviewer for the M3L workshop at NeurIPS 2024</li>
+    <li>Reviewer for the Montreal AI Symposium 2024 (MAIS 2024)</li>
+    <li>Reviewer for the XAI-SA 2024 workshop</li>
+    <li>Reviewer for the ANNPR 2024 workshop</li>
+  </ul>
+</section>
 
+<section>
+  <h2>Teaching Assistant in Computer Science</h2>
+  <ul>
+    <li>
+      <strong>Initiation to Machine Learning (IFT‑2009)</strong>
+      <ul>
+        <li>Winter 2026 (under the supervision of Anthony Deschênes)</li>
+        <li>Create exercises for the lab; teach the lab</li>
+      </ul>
+    </li>
 
-## Teaching assistant in computer science
-* Initiation to Machine Learning (IFT-2009)
-    * Winter 2026 (under the supervision of Anthony Deschênes)
-    * Create the exercices for the lab. Teach the lab.
-* Machine Learning for signal processing (IFT-4030 / IFT-7030)
-    * Fall 2025 (under the supervision of Cem Subakan)
-    * Fall 2023 (under the supervision of Cem Subakan)
-    * Teach the lab. Answer the student's questions. Correction of exams.
-* Algorithms and programming (IFT-1004)
-    * Fall 2025 (under the supervision of Pascal Germain)
-    * Winter 2025 (under the supervision of Pascal Germain)
-    * Fall 2024 (under the supervision of Honoré Hounwanou)
-    * Teach the lab. Answer the student's questions.
-* Programming and mathematics for data science (IFT-4021/IFT-7021)
-    * Summer 2025 (under the supervision of Pascal Germain)
-    * Correction of the practical assignments.
-* Introduction to programming  (IFT-1004)
-    * Winter 2024 (under the supervision of Honoré Hounwanou)
-    * Teach the lab. Answer the student's questions.
+    <li>
+      <strong>Machine Learning for Signal Processing (IFT‑4030 / IFT‑7030)</strong>
+      <ul>
+        <li>Fall 2025 (under the supervision of Cem Subakan)</li>
+        <li>Fall 2023 (under the supervision of Cem Subakan)</li>
+        <li>Teach labs, answer students’ questions, correct exams</li>
+      </ul>
+    </li>
 
-## Teaching assistant in mathematics - Tutor
-* Tutor for the Help center in mathematics and statistics (CDA)
-    * Fall 2023 to winter 2023
-    * Private tutor for the students
-    * Tutoring for more than 15 mathematics classes.
-* Private tutor for Arithmetics for preschool/primary school teachers (MAT-1905)
-    * Fall 2021 and fall 2022
-    * Private tutor for the students
+    <li>
+      <strong>Algorithms and Programming (IFT‑1004)</strong>
+      <ul>
+        <li>Fall 2025 (under the supervision of Pascal Germain)</li>
+        <li>Winter 2025 (under the supervision of Pascal Germain)</li>
+        <li>Fall 2024 (under the supervision of Honoré Hounwanou)</li>
+        <li>Teach labs, answer students’ questions</li>
+      </ul>
+    </li>
 
-## Teaching assistant in mathematics - Tutor
-* Vector algebra (MAT-0130)
-    * Fall 2020 (under the supervision of Thierry Duchesne)
-    * Winter 2021 (under the supervision of Thierry Duchesne)
-    * Fall 2021 (under the supervision of Thierry Duchesne)
-    * Summer 2022 (under the supervision of Thierry Duchesne)
+    <li>
+      <strong>Programming and Mathematics for Data Science (IFT‑4021 / IFT‑7021)</strong>
+      <ul>
+        <li>Summer 2025 (under the supervision of Pascal Germain)</li>
+        <li>Correct practical assignments</li>
+      </ul>
+    </li>
 
-* Differential calculus (MAT-0150)
-    * Winter 2022 (under the supervision of Nicolas Doyon)
+    <li>
+      <strong>Introduction to Programming (IFT‑1004)</strong>
+      <ul>
+        <li>Winter 2024 (under the supervision of Honoré Hounwanou)</li>
+        <li>Teach labs, answer students’ questions</li>
+      </ul>
+    </li>
+  </ul>
+</section>
 
-* Mathematics for engineers II (MAT-1910)
-    * Fall 2021 (under the supervision of Line Baribeau)
-    * Winter 2022 (under the supervision of Hugo Chapdelaine)
+<section>
+  <h2>Teaching Assistant in Mathematics – Tutor</h2>
+  <ul>
+    <li>
+      <strong>Tutor at the Help Center in Mathematics and Statistics (CDA)</strong>
+      <ul>
+        <li>Fall 2023 to Winter 2023</li>
+        <li>Private tutoring for students</li>
+        <li>Support for more than 15 mathematics classes</li>
+      </ul>
+    </li>
 
-* Arithmetics for preschool/primary school teachers (MAT-1905)
-    * Fall 2021 (under the supervision of Bernard Hodgson)
-    * Fall 2022 (under the supervision of Bernard Hodgson)
+    <li>
+      <strong>Private Tutor – Arithmetic for Preschool/Primary School Teachers (MAT‑1905)</strong>
+      <ul>
+        <li>Fall 2021 and Fall 2022</li>
+        <li>Private tutoring for students</li>
+      </ul>
+    </li>
+  </ul>
+</section>
 
+<section>
+  <h2>Teaching Assistant in Mathematics – Grading</h2>
+  <ul>
+    <li>
+      <strong>Vector Algebra (MAT‑0130)</strong>
+      <ul>
+        <li>Fall 2020 (under the supervision of Thierry Duchesne)</li>
+        <li>Winter 2021 (under the supervision of Thierry Duchesne)</li>
+        <li>Fall 2021 (under the supervision of Thierry Duchesne)</li>
+        <li>Summer 2022 (under the supervision of Thierry Duchesne)</li>
+      </ul>
+    </li>
 
-## Software development intern
-Software development intern for 3D geometry at InnovMetric Logiciels Inc.
-*   Internship in "Modèle" team in summer 2021.
-*   Develop in a codebase of more than 1.5 millions lines of code.
-*   Apply the SOLID philosophy and clean code techniques.
-*   Working specifically on 3D geometry algorithms for computer assisted designs (CAD).
-*   Implement new functionalities in the graphic interface of PolyWorks\|Inspector.
+    <li>
+      <strong>Differential Calculus (MAT‑0150)</strong>
+      <ul>
+        <li>Winter 2022 (under the supervision of Nicolas Doyon)</li>
+      </ul>
+    </li>
+
+    <li>
+      <strong>Mathematics for Engineers II (MAT‑1910)</strong>
+      <ul>
+        <li>Fall 2021 (under the supervision of Line Baribeau)</li>
+        <li>Winter 2022 (under the supervision of Hugo Chapdelaine)</li>
+      </ul>
+    </li>
+
+    <li>
+      <strong>Arithmetic for Preschool/Primary School Teachers (MAT‑1905)</strong>
+      <ul>
+        <li>Fall 2021 (under the supervision of Bernard Hodgson)</li>
+        <li>Fall 2022 (under the supervision of Bernard Hodgson)</li>
+      </ul>
+    </li>
+  </ul>
+</section>
+
+<section>
+  <h2>Software Development Intern</h2>
+  <p><strong>Software development intern in 3D geometry</strong> at InnovMetric Logiciels Inc.</p>
+  <ul>
+    <li>Internship in the “Modèle” team during Summer 2021</li>
+    <li>Development in a codebase of more than 1.5 million lines</li>
+    <li>Applied SOLID principles and clean code techniques</li>
+    <li>Focused on 3D geometry algorithms for CAD applications</li>
+    <li>Implemented new functionalities in the PolyWorks|Inspector graphical interface</li>
+  </ul>
+</section>

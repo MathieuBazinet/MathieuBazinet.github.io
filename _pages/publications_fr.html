@@ -10,7 +10,7 @@ page_css:
 ---
 
 {% if site.author.googlescholar %}
-  <div class="wordwrap">Vous pouvez trouver tous mes articles sur <a href="{{site.author.googlescholar}}">mon profil Google Scholar</a>.</div>
+  <div class="wordwrap">Vous pouvez trouver tous mes articles sur <a href="{{site.author.googlescholar}}">mon profil Google Scholar</a>. <br>Pour citer ces papiers, veuillez utiliser les citations qui se trouvent <a href="/files/my_bibtex.txt">dans ce fichier</a>.</div>
 {% endif %}
 
 {% if page.page_css %}
@@ -20,7 +20,6 @@ page_css:
 {% endif %}
 
 {% include base_path %}
-
 
 <!-- <article class="pub-card" data-url="link">
       <h3>title</h3>
@@ -34,20 +33,19 @@ page_css:
 
 <section class="publications">
   <h2>Articles</h2>
-
   <div class="pub-grid">
     <article class="pub-card" data-url="https://doi.org/10.1016/j.foodres.2026.118496">
       <h3>Identification of antihypertensive, antidiabetic, and antioxidant peptides derived from hydrolysates of dairy white wastewaters containing milk proteins using machine learning insights</h3>
       <p class="authors">Diala Damen, Hairati Aboubacar, Aurore Cournoyer, <strong>Mathieu Bazinet</strong>, Juan de Toro-Martín, Sami Gaaloul, Safia Hamoudi, Benoit Cudennec, Laurent Bazinet</p>
-      <p class="venue">Food Research International, Jan 2026</p>
+      <p class="journal">Food Research International, Jan 2026</p>
       <div class="links">
-        <a href=" ">Lien vers le papier</a>
+        <a href="https://www.sciencedirect.com/science/article/pii/S0963996926001705">Lien vers le papier</a>
       </div>
     </article>
-    <article class="pub-card" data-url="https://proceedings.mlr.press/v267/leblanc25a.html">
+    <article class="pub-card" data-url="https://proceedings.mlr.press/v267/leblanc25a.html" data-citations="2">
       <h3>Generalization Bounds via Meta-Learned Model Representations: PAC-Bayes and Sample Compression Hypernetworks</h3>
       <p class="authors">Benjamin Leblanc, <strong>Mathieu Bazinet</strong>, Nathaniel D'Amours, Alexandre Drouin, Pascal Germain</p>
-      <p class="venue">ICML 2025</p>
+      <p class="conference">ICML 2025</p>
       <p class="note">Version longue du papier <i>Sample Compression Hypernetworks: From Generalization Bounds to Meta-Learning</i>.
       <div class="links">
         <a href="https://openreview.net/forum?id=Qn6yZb5iLC">OpenReview</a>
@@ -56,10 +54,10 @@ page_css:
       </div>
     </article>
 
-    <article class="pub-card" data-url="https://proceedings.mlr.press/v258/bazinet25a.html">
+    <article class="pub-card" data-url="https://proceedings.mlr.press/v258/bazinet25a.html" data-citations="3">
       <h3>Sample Compression Unleashed: New Generalization Bounds for Real Valued Losses</h3>
       <p class="authors"><strong>Mathieu Bazinet</strong>, Valentina Zantedeschi, Pascal Germain</p>
-      <p class="venue">AISTATS 2025</p>
+      <p class="conference">AISTATS 2025</p>
       <div class="links">
         <a href="https://openreview.net/forum?id=0ynSy2dwNi">OpenReview</a>
         <a href="https://arxiv.org/abs/2409.17932">ArXiv</a>
@@ -67,20 +65,20 @@ page_css:
       </div>
     </article>
 
-    <article class="pub-card" data-url="https://doi.org/10.1016/j.seppur.2024.130877">
+    <article class="pub-card" data-url="https://doi.org/10.1016/j.seppur.2024.130877" data-citations="7">
       <h3>Application of machine learning tools to study the synergistic impact of physicochemical properties.</h3>
       <p class="authors">Zain Sanchez-Reinoso, <strong>Mathieu Bazinet</strong>, Benjamin Leblanc, Jean-Pierre Clément, Pascal Germain, Laurent Bazinet</p>
-      <p class="venue">Separation and Purification Technology, Dec 2024</p>
+      <p class="journal">Separation and Purification Technology, Dec 2024</p>
       <div class="links">
         <a href="https://www.sciencedirect.com/science/article/pii/S1383586624046161">Lien vers le papier</a>
         <a href="https://github.com/MathieuBazinet/EDFM">Code</a>
       </div>
     </article>
 
-    <article class="pub-card" data-url="https://doi.org/10.1016/j.foodres.2024.115417">
+    <article class="pub-card" data-url="https://doi.org/10.1016/j.foodres.2024.115417" data-citations="9">
       <h3>How peptide migration and fraction bioactivity are modulated by applied electrical current conditions during electromembrane process separation: A comprehensive machine learning-based peptidomic approach</h3>
       <p class="authors">Aurore Cournoyer, <strong>Mathieu Bazinet</strong>, Jean-Pierre Clément, Pier-Luc Plante, Ismail Fliss, Laurent Bazinet</p>
-      <p class="venue">Food Research International, Nov 2024</p>
+      <p class="journal">Food Research International, Nov 2024</p>
       <div class="links">
         <a href="https://www.sciencedirect.com/science/article/pii/S096399692401487X">Lien vers le papier</a>
         <a href="https://github.com/MathieuBazinet/pef-ml">Code</a>
@@ -94,6 +92,11 @@ page_css:
   <h2>Preprints et articles en soumission</h2>
   <div class="pub-grid">
     <article class="pub-card">
+        <h3>Effects of Pulsed Electric Field Pulse/Pause Combination on Anionic Peptide Migration During Electromembrane Separation of a Whey Protein Hydrolysate: A Machine Learning-Based Comprehensive Study.</h3>
+        <p class="authors">Leonel Cedrick Mafotang Tasgue, <strong>Mathieu Bazinet</strong>, Aurore Cournoyer, Marcello Fidaleo, Laurent Bazinet</p>
+        <p class="note">En soumission dans Food Research International</i>.
+  </article>
+    <article class="pub-card">
       <h3>How hydrolysis duration and discoloration affected on peptide population and antimicrobial activity of chicken cruor hydrolysates</h3>
       <p class="authors">Delasa Rahimi, Zain Sanchez-Reinoso, <strong>Mathieu Bazinet</strong>, Ismail Fliss, Sergey Mikaylin, Laurent Bazinet</p>
       <p class="note">En révision dans Food Research International</i>.
@@ -101,7 +104,7 @@ page_css:
   <article class="pub-card">
         <h3>Identification of novel antifungal peptides using an integrated peptidomics and machine learning approach on raw and discolored turkey cruor hydrolysates</h3>
         <p class="authors">Houssine Fliss, <strong>Mathieu Bazinet</strong>, Sara Garcia-Vela, Jacinthe Thibodeau, Laurent Bazinet, Sergey Mikhaylin</p>
-        <p class="note">En soumission dans Food Chemistry</p>
+        <p class="note">En révision dans Food Chemistry</p>
   </article>
 <!-- 
     <article class="pub-card">
@@ -112,10 +115,6 @@ page_css:
     <article class="pub-card">
         <h3>Effects of Pulsed Electric Field Pulse/Pause Combination on Cationic Peptide Migration During Electromembrane Separation of a Whey Protein Hydrolysate: A Machine Learning-Based Comprehensive Study</h3>
         <p class="authors">Aurore Cournoyer, <strong>Mathieu Bazinet</strong>, Leonel Cedrick Mafotang Tasgue, Marcello Fidaleo, Laurent Bazinet</p>
-  </article>
-    <article class="pub-card">
-        <h3>Effects of Pulsed Electric Field Pulse/Pause Combination on Anionic Peptide Migration During Electromembrane Separation of a Whey Protein Hydrolysate: A Machine Learning-Based Comprehensive Study.</h3>
-        <p class="authors">Leonel Cedrick Mafotang Tasgue, <strong>Mathieu Bazinet</strong>, Aurore Cournoyer, Marcello Fidaleo, Laurent Bazinet</p>
   </article> -->
 
     <article class="pub-card" data-url="https://arxiv.org/abs/2503.10503">

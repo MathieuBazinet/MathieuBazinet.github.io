@@ -21,7 +21,7 @@ I am a computer science Ph.D. student under the supervision of [Pascal Germain, 
 
 I am mainly interested in statistical learning theory, with a focus on PAC-Bayes and sample compression theory applied to deep learning. While working on my master's degree, I was interested in kernel methods and wavelet transform. I also worked on regression trees for explaining physico-chemical processes linked to the migration of peptides through a ultrafiltration membrane.
 
-I am director of the tutorials in the AI Club of Laval University ([CIAUL](https://cia.ift.ulaval.ca/)). You can find my tutorials [here](https://github.com/cia-ulaval/tutoriels-cia). Previously, I was director of communications for two years, where I created and animated the following social media pages : [Facebook](https://www.facebook.com/people/Club-dintelligence-artificielle-de-lUniversit%C3%A9-Laval/100089798911416/), [LinkedIn](https://www.linkedin.com/company/cia-ulaval/) and the [Instagram](https://www.instagram.com/ciaulaval/).
+I was previously director of the tutorials in the AI Club of Laval University ([CIAUL](https://cia.ift.ulaval.ca/)). You can find my tutorials [here](https://github.com/cia-ulaval/tutoriels-cia). For two years prior, I was also director of communication, where I created and animated the following social media pages : [Facebook](https://www.facebook.com/people/Club-dintelligence-artificielle-de-lUniversit%C3%A9-Laval/100089798911416/), [LinkedIn](https://www.linkedin.com/company/cia-ulaval/) and the [Instagram](https://www.instagram.com/ciaulaval/).
 
 Fun facts about me : 
 

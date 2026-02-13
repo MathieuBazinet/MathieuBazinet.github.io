@@ -1,0 +1,59 @@
+@article{CorpusID:285029833,
+title = {Identification of antihypertensive, antidiabetic, and antioxidant peptides derived from hydrolysates of dairy white wastewaters containing milk proteins using machine learning insights},
+journal = {Food Research International},
+volume = {229},
+pages = {118496},
+year = {2026},
+issn = {0963-9969},
+doi = {https://doi.org/10.1016/j.foodres.2026.118496},
+url = {https://www.sciencedirect.com/science/article/pii/S0963996926001705},
+author = {Diala Damen and Hairati Aboubacar and Aurore Cournoyer and Mathieu Bazinet and Juan {de Toro-Martín} and Sami Gaaloul and Safia Hamoudi and Benoit Cudennec and Laurent Bazinet},
+}
+
+@inproceedings{CorpusID:273403365,
+title={Generalization Bounds via Meta-Learned Model Representations: {PAC}-Bayes and Sample Compression Hypernetworks},
+author={Benjamin Leblanc and Mathieu Bazinet and Nathaniel D'Amours and Alexandre Drouin and Pascal Germain},
+booktitle={Forty-second International Conference on Machine Learning},
+year={2025},
+url={https://openreview.net/forum?id=Qn6yZb5iLC}
+}
+
+@inproceedings{CorpusID:272910827,
+title={Sample compression unleashed: New generalization bounds for real valued losses},
+author={Mathieu Bazinet and Valentina Zantedeschi and Pascal Germain},
+booktitle={The 28th International Conference on Artificial Intelligence and Statistics},
+year={2025},
+url={https://openreview.net/forum?id=0ynSy2dwNi}
+}
+
+@article{CorpusID:274485257,
+title = {Application of machine learning tools to study the synergistic impact of physicochemical properties of peptides and filtration membranes on peptide migration during electrodialysis with filtration membranes},
+author = {Zain Sanchez-Reinoso and Mathieu Bazinet and Benjamin Leblanc and Jean-Pierre Clément and Pascal Germain and Laurent Bazinet},
+journal = {Separation and Purification Technology},
+volume = {360},
+pages = {130877},
+year = {2025},
+issn = {1383-5866},
+doi = {https://doi.org/10.1016/j.seppur.2024.130877},
+url = {https://www.sciencedirect.com/science/article/pii/S1383586624046161},
+
+}
+
+@article{CorpusID:274393015,
+title = {How peptide migration and fraction bioactivity are modulated by applied electrical current conditions during electromembrane process separation: A comprehensive machine learning-based peptidomic approach},
+journal = {Food Research International},
+volume = {200},
+pages = {115417},
+year = {2025},
+issn = {0963-9969},
+doi = {https://doi.org/10.1016/j.foodres.2024.115417},
+url = {https://www.sciencedirect.com/science/article/pii/S096399692401487X},
+author = {Aurore Cournoyer and Mathieu Bazinet and Jean-Pierre Clément and Pier-Luc Plante and Ismail Fliss and Laurent Bazinet},
+}
+
+@inproceedings{CorpusID:276961268,
+  title={Sample Compression for Self Certified Continual Learning},
+  author={Jacob Comeau and Mathieu Bazinet and Pascal Germain and Cem Subakan},
+  year={2025},
+  url={https://arxiv.org/abs/2503.10503}
+}
