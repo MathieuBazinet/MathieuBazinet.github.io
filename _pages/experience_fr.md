@@ -144,4 +144,3 @@ ref: experience
     <li>Implémentation de fonctionnalités dans l’interface de PolyWorks|Inspector</li>
   </ul>
 </section>
-``
