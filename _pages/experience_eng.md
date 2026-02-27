@@ -73,6 +73,48 @@ ref: experience
 </section>
 
 <section>
+  <h2>Teaching Assistant in Mathematics – Grading</h2>
+  <ul>
+    <li>
+      <strong>Vector Algebra (MAT‑0130)</strong>
+      <ul>
+        <li>Fall 2020 (under the supervision of Thierry Duchesne)</li>
+        <li>Winter 2021 (under the supervision of Thierry Duchesne)</li>
+        <li>Fall 2021 (under the supervision of Thierry Duchesne)</li>
+        <li>Summer 2022 (under the supervision of Thierry Duchesne)</li>
+        <li>Winter 2026</li>
+      </ul>
+    </li>
+    <li>
+      <strong>Integral Calculus and Probabilities (MAT‑0250)</strong>
+      <ul>
+      <li>Winter 2026</li>
+      </ul>
+    </li>
+    <li>
+      <strong>Differential Calculus (MAT‑0150)</strong>
+      <ul>
+        <li>Winter 2022 (under the supervision of Nicolas Doyon)</li>
+      </ul>
+    </li>
+    <li>
+      <strong>Mathematics for Engineers II (MAT‑1910)</strong>
+      <ul>
+        <li>Fall 2021 (under the supervision of Line Baribeau)</li>
+        <li>Winter 2022 (under the supervision of Hugo Chapdelaine)</li>
+      </ul>
+    </li>
+    <li>
+      <strong>Arithmetic for Preschool/Primary School Teachers (MAT‑1905)</strong>
+      <ul>
+        <li>Fall 2021 (under the supervision of Bernard Hodgson)</li>
+        <li>Fall 2022 (under the supervision of Bernard Hodgson)</li>
+      </ul>
+    </li>
+  </ul>
+</section>
+
+<section>
   <h2>Teaching Assistant in Mathematics – Tutor</h2>
   <ul>
     <li>
@@ -89,44 +131,6 @@ ref: experience
       <ul>
         <li>Fall 2021 and Fall 2022</li>
         <li>Private tutoring for students</li>
-      </ul>
-    </li>
-  </ul>
-</section>
-
-<section>
-  <h2>Teaching Assistant in Mathematics – Grading</h2>
-  <ul>
-    <li>
-      <strong>Vector Algebra (MAT‑0130)</strong>
-      <ul>
-        <li>Fall 2020 (under the supervision of Thierry Duchesne)</li>
-        <li>Winter 2021 (under the supervision of Thierry Duchesne)</li>
-        <li>Fall 2021 (under the supervision of Thierry Duchesne)</li>
-        <li>Summer 2022 (under the supervision of Thierry Duchesne)</li>
-      </ul>
-    </li>
-
-    <li>
-      <strong>Differential Calculus (MAT‑0150)</strong>
-      <ul>
-        <li>Winter 2022 (under the supervision of Nicolas Doyon)</li>
-      </ul>
-    </li>
-
-    <li>
-      <strong>Mathematics for Engineers II (MAT‑1910)</strong>
-      <ul>
-        <li>Fall 2021 (under the supervision of Line Baribeau)</li>
-        <li>Winter 2022 (under the supervision of Hugo Chapdelaine)</li>
-      </ul>
-    </li>
-
-    <li>
-      <strong>Arithmetic for Preschool/Primary School Teachers (MAT‑1905)</strong>
-      <ul>
-        <li>Fall 2021 (under the supervision of Bernard Hodgson)</li>
-        <li>Fall 2022 (under the supervision of Bernard Hodgson)</li>
       </ul>
     </li>
   </ul>

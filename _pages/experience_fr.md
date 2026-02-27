@@ -74,6 +74,48 @@ ref: experience
 </section>
 
 <section>
+  <h2>Auxiliaire d'enseignement en mathématiques – correction</h2>
+  <ul>
+    <li>
+      <strong>Algèbre vectorielle (MAT‑0130)</strong>
+      <ul>
+        <li>Automne 2020 (sous la supervision de Thierry Duchesne)</li>
+        <li>Hiver 2021 (sous la supervision de Thierry Duchesne)</li>
+        <li>Automne 2021 (sous la supervision de Thierry Duchesne)</li>
+        <li>Été 2022 (sous la supervision de Thierry Duchesne)</li>
+        <li>Hiver 2026</li>
+      </ul>
+    </li>
+    <li>
+      <strong>Calcul intégral et probabilités (MAT‑0250)</strong>
+      <ul>
+      <li>Hiver 2026</li>
+      </ul>
+    </li>
+    <li>
+      <strong>Calcul différentiel (MAT‑0150)</strong>
+      <ul>
+        <li>Hiver 2022 (sous la supervision de Nicolas Doyon)</li>
+      </ul>
+    </li>
+    <li>
+      <strong>Mathématiques de l'ingénieur II (MAT‑1910)</strong>
+      <ul>
+        <li>Automne 2021 (sous la supervision de Line Baribeau)</li>
+        <li>Hiver 2022 (sous la supervision de Hugo Chapdelaine)</li>
+      </ul>
+    </li>
+    <li>
+      <strong>Arithmétique pour l’enseignement préscolaire/primaire (MAT‑1905)</strong>
+      <ul>
+        <li>Automne 2021 (sous la supervision de Bernard Hodgson)</li>
+        <li>Automne 2022 (sous la supervision de Bernard Hodgson)</li>
+      </ul>
+    </li>
+  </ul>
+</section>
+
+<section>
   <h2>Auxiliaire d'enseignement en mathématiques – tutorat</h2>
   <ul>
     <li>
@@ -90,44 +132,6 @@ ref: experience
       <ul>
         <li>Automne 2021 et Automne 2023</li>
         <li>Tutorat privé pour étudiants</li>
-      </ul>
-    </li>
-  </ul>
-</section>
-
-<section>
-  <h2>Auxiliaire d'enseignement en mathématiques – correction</h2>
-  <ul>
-    <li>
-      <strong>Algèbre vectorielle (MAT‑0130)</strong>
-      <ul>
-        <li>Automne 2020 (sous la supervision de Thierry Duchesne)</li>
-        <li>Hiver 2021 (sous la supervision de Thierry Duchesne)</li>
-        <li>Automne 2021 (sous la supervision de Thierry Duchesne)</li>
-        <li>Été 2022 (sous la supervision de Thierry Duchesne)</li>
-      </ul>
-    </li>
-
-    <li>
-      <strong>Calcul différentiel (MAT‑0150)</strong>
-      <ul>
-        <li>Hiver 2022 (sous la supervision de Nicolas Doyon)</li>
-      </ul>
-    </li>
-
-    <li>
-      <strong>Mathématiques de l'ingénieur II (MAT‑1910)</strong>
-      <ul>
-        <li>Automne 2021 (sous la supervision de Line Baribeau)</li>
-        <li>Hiver 2022 (sous la supervision de Hugo Chapdelaine)</li>
-      </ul>
-    </li>
-
-    <li>
-      <strong>Arithmétique pour l’enseignement préscolaire/primaire (MAT‑1905)</strong>
-      <ul>
-        <li>Automne 2021 (sous la supervision de Bernard Hodgson)</li>
-        <li>Automne 2022 (sous la supervision de Bernard Hodgson)</li>
       </ul>
     </li>
   </ul>
