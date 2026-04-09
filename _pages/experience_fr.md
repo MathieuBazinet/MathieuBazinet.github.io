@@ -12,6 +12,7 @@ ref: experience
 <section>
   <h2>Reviewer</h2>
   <ul>
+    <li>Reviewer pour la conférence UAI 2026</li>
     <li>Reviewer pour la conférence AISTATS 2026</li>
     <li>Reviewer pour le journal Food Research International</li>
     <li>Reviewer pour la conférence NeurIPS 2025</li>

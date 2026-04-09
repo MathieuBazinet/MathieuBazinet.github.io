@@ -17,7 +17,7 @@ ref : about
 
 Hi, my name is Mathieu Bazinet.
 
-I am a computer science Ph.D. student under the supervision of [Pascal Germain, Ph.D.](https://www.pascalgermain.info/) et [Valentina Zantedeschi, Ph.D.](https://vzantedeschi.com/) in the [GRAIL lab](https://grail.ift.ulaval.ca/). 
+I am a computer science Ph.D. student under the supervision of [Pascal Germain, Ph.D.](https://www.pascalgermain.info/) and [Valentina Zantedeschi, Ph.D.](https://vzantedeschi.com/) in the [GRAIL lab](https://grail.ift.ulaval.ca/). 
 
 I am mainly interested in statistical learning theory, with a focus on PAC-Bayes and sample compression theory applied to deep learning. While working on my master's degree, I was interested in kernel methods and wavelet transform. I also worked on regression trees for explaining physico-chemical processes linked to the migration of peptides through a ultrafiltration membrane.
 

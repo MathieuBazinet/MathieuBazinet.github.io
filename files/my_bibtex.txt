@@ -1,3 +1,14 @@
+@article{CorpusID:286539053,
+title = {Impact of hydrolysis duration and discoloration on peptide profiles and antimicrobial properties in chicken cruor hydrolysates: Identification of five novel antifungal peptides},
+journal = {Food Chemistry},
+pages = {148763},
+year = {2026},
+issn = {0308-8146},
+doi = {https://doi.org/10.1016/j.foodchem.2026.148763},
+url = {https://www.sciencedirect.com/science/article/pii/S0308814626009210},
+author = {Delasa Rahimi and Mathieu Bazinet and Zain Sanchez-Reinoso and Sara García-Vela and Juan {de Toro-Martín} and Sergey Mikhaylin and Laurent Bazinet},
+}
+
 @article{CorpusID:285029833,
 title = {Identification of antihypertensive, antidiabetic, and antioxidant peptides derived from hydrolysates of dairy white wastewaters containing milk proteins using machine learning insights},
 journal = {Food Research International},
@@ -36,7 +47,6 @@ year = {2025},
 issn = {1383-5866},
 doi = {https://doi.org/10.1016/j.seppur.2024.130877},
 url = {https://www.sciencedirect.com/science/article/pii/S1383586624046161},
-
 }
 
 @article{CorpusID:274393015,
@@ -51,9 +61,16 @@ url = {https://www.sciencedirect.com/science/article/pii/S096399692401487X},
 author = {Aurore Cournoyer and Mathieu Bazinet and Jean-Pierre Clément and Pier-Luc Plante and Ismail Fliss and Laurent Bazinet},
 }
 
-@inproceedings{CorpusID:276961268,
+@article{CorpusID:276961268,
   title={Sample Compression for Self Certified Continual Learning},
-  author={Jacob Comeau and Mathieu Bazinet and Pascal Germain and Cem Subakan},
-  year={2025},
-  url={https://arxiv.org/abs/2503.10503}
+  author={Comeau, Jacob and Bazinet, Mathieu and Germain, Pascal and Subakan, Cem},
+  journal={arXiv preprint arXiv:2503.10503},
+  year={2025}
+}
+
+@article{CorpusID:286082503,
+  title={Bound to Disagree: Generalization Bounds via Certifiable Surrogates},
+  author={Bazinet, Mathieu and Zantedeschi, Valentina and Germain, Pascal},
+  journal={arXiv preprint arXiv:2602.23128},
+  year={2026}
 }
