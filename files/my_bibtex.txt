@@ -1,3 +1,14 @@
+@article{T2026119562,
+title = {Effects of pulsed electric field parameters on anionic peptide migration during Electromembrane separation of a whey protein hydrolysate: A machine learning comprehensive study},
+journal = {Food Research International},
+pages = {119562},
+year = {2026},
+issn = {0963-9969},
+doi = {https://doi.org/10.1016/j.foodres.2026.119562},
+url = {https://www.sciencedirect.com/science/article/pii/S0963996926012457},
+author = {Leonel C. Mafotang T. and Mathieu Bazinet and Aurore Cournoyer and Marcello Fidaleo and Laurent Bazinet},
+}
+
 @article{CorpusID:286539053,
 title = {Impact of hydrolysis duration and discoloration on peptide profiles and antimicrobial properties in chicken cruor hydrolysates: Identification of five novel antifungal peptides},
 journal = {Food Chemistry},
@@ -7,6 +18,18 @@ issn = {0308-8146},
 doi = {https://doi.org/10.1016/j.foodchem.2026.148763},
 url = {https://www.sciencedirect.com/science/article/pii/S0308814626009210},
 author = {Delasa Rahimi and Mathieu Bazinet and Zain Sanchez-Reinoso and Sara García-Vela and Juan {de Toro-Martín} and Sergey Mikhaylin and Laurent Bazinet},
+}
+
+@article{CorpusID:287297337,
+title = {Valorization of turkey cruor through peptic hydrolysis: peptidomic and machine learning approaches for the identification of antimicrobial peptides},
+journal = {Food Chemistry},
+volume = {516},
+pages = {149124},
+year = {2026},
+issn = {0308-8146},
+doi = {https://doi.org/10.1016/j.foodchem.2026.149124},
+url = {https://www.sciencedirect.com/science/article/pii/S0308814626012823},
+author = {Houssine Fliss and Mathieu Bazinet and Sara Garcia-Vela and Jacinthe Thibodeau and Laurent Bazinet and Sergey Mikhaylin},
 }
 
 @article{CorpusID:285029833,
