@@ -7,6 +7,8 @@ author_profile: true
 ref: publication
 page_css:
   - /assets/css/publications.css
+toc: true
+toc_sticky: true
 ---
 
 {% if site.author.googlescholar %}
@@ -30,13 +32,25 @@ page_css:
         <a href="Link"></a>
       </div>
 </article> -->
+<a href="#workshop">Publications</a>
 
 <section class="publications">
-  <h2>Articles</h2>
+  <h2 id="articles">Articles</h2>
   <div class="pub-grid">
+      <article class="pub-card" data-url="https://arxiv.org/abs/2602.23128" data-prize="Présentation orale">
+      <h3>Bound to Disagree : Generalization Bounds via Certifiable Surrogates</h3>
+      <p class="authors"><strong>Mathieu Bazinet</strong>, Valentina Zantedeschi, Pascal Germain</p>
+      <p class="conference">UAI 2026</p>
+      <p class="note">Accepté comme présentation orale (top 2% des soumissions)</p>
+      <div class="links">
+        <!-- <a href="https://openreview.net/forum?id=Qn6yZb5iLC">OpenReview</a> -->
+        <a href="https://arxiv.org/abs/2410.13577">ArXiv</a>
+        <!-- <a href="https://github.com/GRAAL-Research/DeepRM">Code</a> -->
+      </div>
+    </article>
     <article class="pub-card" data-url="https://doi.org/10.1016/j.foodres.2026.119562">
         <h3>Effects of pulsed electric field parameters on anionic peptide migration during Electromembrane separation of a whey protein hydrolysate: A machine learning comprehensive study</h3>
-        <p class="authors">Leonel Cedrick Mafotang Tasgue, <strong>Mathieu Bazinet</strong>, Aurore Cournoyer, Marcello Fidaleo, Laurent Bazinet</p>
+        <p class="authors">Leonel Cedrick Mafotang Tsague, <strong>Mathieu Bazinet</strong>, Aurore Cournoyer, Marcello Fidaleo, Laurent Bazinet</p>
         <p class="note">Food Research International, Mai 2026</i>
         <div class="links">
         <a href="https://www.sciencedirect.com/science/article/pii/S0963996926012457">Lien vers le papier</a>
@@ -89,7 +103,7 @@ page_css:
       </div>
     </article>
 
-    <article class="pub-card" data-url="https://doi.org/10.1016/j.seppur.2024.130877" data-citations="10">
+    <article class="pub-card" data-url="https://doi.org/10.1016/j.seppur.2024.130877" data-citations="11">
       <h3>Application of machine learning tools to study the synergistic impact of physicochemical properties.</h3>
       <p class="authors">Zain Sanchez-Reinoso, <strong>Mathieu Bazinet</strong>, Benjamin Leblanc, Jean-Pierre Clément, Pascal Germain, Laurent Bazinet</p>
       <p class="journal">Separation and Purification Technology, Décembre 2024</p>
@@ -99,7 +113,7 @@ page_css:
       </div>
     </article>
 
-    <article class="pub-card" data-url="https://doi.org/10.1016/j.foodres.2024.115417" data-citations="15">
+    <article class="pub-card" data-url="https://doi.org/10.1016/j.foodres.2024.115417" data-citations="16">
       <h3>How peptide migration and fraction bioactivity are modulated by applied electrical current conditions during electromembrane process separation: A comprehensive machine learning-based peptidomic approach</h3>
       <p class="authors">Aurore Cournoyer, <strong>Mathieu Bazinet</strong>, Jean-Pierre Clément, Pier-Luc Plante, Ismail Fliss, Laurent Bazinet</p>
       <p class="journal">Food Research International, Novembre 2024</p>
@@ -113,15 +127,8 @@ page_css:
 </section>
 
 <section class="publications">
-  <h2>Preprints et articles en soumission</h2>
+  <h2 id="preprint">Preprints et articles en soumission</h2>
   <div class="pub-grid">
-        <article class="pub-card" data-url="https://arxiv.org/abs/2602.23128">
-      <h3>Bound to Disagree : Generalization Bounds via Certifiable Surrogates</h3>
-      <p class="authors"><strong>Mathieu Bazinet</strong>, Valentina Zantedeschi, Pascal Germain</p>
-      <div class="links">
-        <a href="">Lien vers le papier</a>
-      </div>
-    </article>
 <!-- 
     <article class="pub-card">
       <h3>Fractionation of antihypertensive and antidiabetic bioactive peptides from duckweed protein hydrolysate by electrodialysis with ultrafiltration membranes (EDUF)</h3>
@@ -153,7 +160,7 @@ page_css:
 </section>
 
 <section class="publications">
-  <h2>Articles de workshop</h2>
+  <h2 id="workshop">Articles de workshop</h2>
 
   <div class="pub-grid">
     <article class="pub-card" data-url="https://openreview.net/forum?id=QOl18v8Gfq">

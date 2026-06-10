@@ -9,11 +9,11 @@ lang: eng
 ref : about
 ---
 
-  <!-- <div class="news" style="border: none;">
+  <div class="news" style="border: none;">
     <h3>📢 New paper alert!</h3>
-    <p> The paper <a href="https://arxiv.org/abs/2410.13577"><strong><font size="3"><i>Generalization Bounds via Meta-Learned Model Representations: PAC-Bayes and Sample Compression Hypernetworks</i></font></strong></a> was just accepted at ICML 2025!</p>
+    <p> The paper <a href="https://arxiv.org/pdf/2602.23128"><strong><font size="3"><i>Bound to Disagree: Generalization Bounds via Certifiable Surrogates</i></font></strong></a> was just accepted as an oral presentation at UAI 2026! I have also been nominated as Top reviewer for this conference!</p>
     <hr style="border: none; border-top: 1px solid black;">
-  </div> -->
+  </div>
 
 Hi, my name is Mathieu Bazinet.
 
