@@ -122,7 +122,7 @@ ref: experience
     <li>
       <strong>Tuteur au Centre d'aide en mathématiques et statistique (CDA)</strong>
       <ul>
-        <li>Automne 2023 à Hiver 2023</li>
+        <li>Automne 2021 à Hiver 2023</li>
         <li>Tutorat privé pour étudiants</li>
         <li>Support pour plus de 15 cours en mathématiques</li>
       </ul>
@@ -131,7 +131,7 @@ ref: experience
     <li>
       <strong>Tuteur privé – Arithmétique pour l’enseignement préscolaire/primaire (MAT‑1905)</strong>
       <ul>
-        <li>Automne 2021 et Automne 2023</li>
+        <li>Automne 2021 et Automne 2022</li>
         <li>Tutorat privé pour étudiants</li>
       </ul>
     </li>

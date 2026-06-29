@@ -121,7 +121,7 @@ ref: experience
     <li>
       <strong>Tutor at the Help Center in Mathematics and Statistics (CDA)</strong>
       <ul>
-        <li>Fall 2023 to Winter 2023</li>
+        <li>Fall 2021 to Winter 2023</li>
         <li>Private tutoring for students</li>
         <li>Support for more than 15 mathematics classes</li>
       </ul>
